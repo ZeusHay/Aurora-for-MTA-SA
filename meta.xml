@@ -1,0 +1,12 @@
+<meta>
+  <oop>true</oop>
+  <min_mta_version client='1.5.8-9.20979' server = '1.3.0-9.04570' />
+
+  <script type = 'shared' src = 'lib.lua' cache = 'false'/>
+
+  <file src = 'assets/fonts/roboto-medium.ttf' />
+  <file src = 'assets/fonts/roboto-regular.ttf' />
+  <file src = 'assets/fonts/robotocondensed-regular.ttf' />
+
+  <script type = 'client' src="examples/interfaces/*.lua" cache="false"/>
+</meta>
